@@ -19,3 +19,5 @@ To sort the product table by sales (high to low), click the small arrow next to 
 - Best region: West
 - Most sales in: August and December
 - Hot drinks sold more than Cold drinks
+
+DATASET USED-Coffee Shop Sales Dataset – Kaggle
